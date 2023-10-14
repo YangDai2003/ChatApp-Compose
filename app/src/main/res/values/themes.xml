@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.ChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">@color/background
+        </item>
+    </style>
+
+    <style name="Theme.ChatApp.Settings" parent="Theme.Material3.DynamicColors.Light">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">?colorSurface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

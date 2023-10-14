@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">iChat</string>
+    <string name="not_available">Not available</string>
+    <string name="not_available_subtitle">Not available subtitle</string>
+    <string name="emoji_selector_bt_desc">Emoji Selector</string>
+    <string name="dm_desc">Link</string>
+    <string name="attach_photo_desc">Photo</string>
+    <string name="map_selector_desc">Map</string>
+    <string name="videochat_desc">Video</string>
+    <string name="send_desc">send button</string>
+    <string name="textfield_desc">Text Field</string>
+    <string name="swipe_to_cancel_recording" translatable="false" />
+    <string name="send">Send</string>
+    <string name="new_chat">Add new chat</string>
+    <string name="lastname">Last Name</string>
+    <string name="about">About</string>
+    <string name="firstname">First Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="online">online</string>
+    <string name="offline">offline</string>
+    <string name="block">Block User</string>
+    <string name="toast_accept">Friend request accepted</string>
+    <string name="toast_cancel">Friend request canceled</string>
+    <string name="toast_send">Friend request rent.</string>
+    <string name="toast_friends">You are already friends</string>
+    <string name="toast_requested">Do not send multiple requests</string>
+    <string name="toast_unblock">User unblocked and accept as friend</string>
+    <string name="toast_blocked">You are blocked by user</string>
+    <string name="last_msg">"Last Message: "</string>
+    <string name="me">"Me: "</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="toast_none" translatable="false">&#160;</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hasAccount">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="email">E-Mail</string>
+    <string name="toast_block">Friend Blocked</string>
+    <string name="success">Login Successful</string>
+    <string name="fail">Login Failed</string>
+    <string name="sign_up_success">Sign-up Successful</string>
+    <string name="sign_up_fail">Sign-up Failed</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="profile_saved">Profile Saved</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="contacts">Contacts</string>
+    <string name="account">Account</string>
+    <string name="jumpBottom" >jump to bottom</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="prefers">Preferences</string>
+
+    <string name="theme" >Theme</string>
+    <string name="language" >Language</string>
+    <string name="languageChange" >Change app\'s language</string>
+    <string name="changeTheme" >Change app\'s theme</string>
+    <string name="light" >Light</string>
+    <string name="dark" >Dark</string>
+    <string name="systemTheme" >System Theme</string>
+    <string name="record">Record</string>
+    <string name="noInternet" >No Internet</string>
+    <string name="noPermission" >No Permission</string>
+
+</resources>

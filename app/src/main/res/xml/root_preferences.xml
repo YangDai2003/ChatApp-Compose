@@ -1,0 +1,20 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/prefers">
+
+        <Preference
+            android:icon="@drawable/palette"
+            app:key="theme"
+            app:summary="@string/changeTheme"
+            app:title="@string/theme" />
+
+        <Preference
+            android:icon="@drawable/translate"
+            app:key="language"
+            app:summary="@string/languageChange"
+            app:title="@string/language" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
